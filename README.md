@@ -137,6 +137,7 @@ Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
+
     I used search engines, websites and teachings from class to answer the questions.
 
 Submit your completed assignment by [due date].
