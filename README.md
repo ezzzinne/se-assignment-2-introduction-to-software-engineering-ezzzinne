@@ -134,6 +134,7 @@ Software engineers can ensure they adhere to ethical standards by:
 (Referenced from www.fullscale.io)
 
 Submission Guidelines:
+
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
