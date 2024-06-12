@@ -69,11 +69,11 @@ What are version control systems, and why are they important in software develop
 
 ANSWER: Version control systems are software tools that help manage and track changes to code, files and other digital assets. Version control (or source control or revision control) serves as a safety net to protect the source code from irreparable harm, giving the development team the freedom to experiment without fear of causing damage or creating code conflicts. They are important in software development as the help developers collaborate and track changes.
 Examples of popular version control systems include: 
-1. Git 
+1. Git:
 Git is the most popular option and has become synonymous with "source code management." Git is an open source distributed system that is used for software projects of any size, making it a popular option for startups, enterprise, and everything in between.
-2. Subversion (SVN) 
+2. Subversion (SVN):
 SVN is a widely adopted centralized VCS. This system keeps all of a project's files on a single codeline making it impossible to branch, so it's easy to scale for large projects. It's simple to learn and features folder security measures, so access to subfolders can be restricted.
-3. Mercurial 
+3. Mercurial:gi
 Mercurial is a distributed VCS that offers simple branching and merging capabilities. The system enables rapid scaling and collaborative development, with an intuitive interface. The flexible command line interface enables users to begin using the system immediately.
 (Referenced from www.about.gitlab.com)
 
@@ -137,4 +137,6 @@ Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
+    I used search engines, websites and teachings from class to answer the questions.
+
 Submit your completed assignment by [due date].
